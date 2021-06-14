@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Final_Submission_BFAA</string>
+    <string name="search_hint">Find Github User</string>
+    <string name="github_user_apps">Click this for Search Users</string>
+    <string name="username">Username</string>
+    <string name="type">Type</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Follower</string>
+    <string name="following">Following</string>
+    <string name="change_language">Change Language</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="notification">Notification</string>
+    <string name="setting">Setting</string>
+    <string name="daily_message">Find your User Github</string>
+    <string name="favorite_menu_item">Favorite</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="exit_menu_item">Exit</string>
+    <string name="alarm_on">Alarm Notification Is ON</string>
+    <string name="alarm_off">Alarm Notification Is OFF</string>
+    <string name="github">Github User</string>
+    <string name="github_logo">Github Logo</string>
+</resources>
